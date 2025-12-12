@@ -1,6 +1,6 @@
 # 💰 GestionnaireBudget – Personal Budget Manager (Console Version)
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-8%2B-blue?style=flat&logo=openjdk)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/AyoubElmortaji/GestionnaireBudget?style=flat)](https://github.com/AyoubElmortaji/GestionnaireBudget/stargazers)
 
