@@ -4,9 +4,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/AyoubElmortaji/GestionnaireBudget?style=flat)](https://github.com/AyoubElmortaji/GestionnaireBudget/stargazers)
 
-**A lightweight, console-based personal budget management tool written in pure Python – no database, no GUI.**
+**A lightweight, console-based personal budget management tool written in pure Java – no database, no GUI.**
 
-GestionnaireBudget allows you to easily track your income, expenses, and overall financial balance directly from the terminal. Data is saved in simple JSON files for persistence. This project highlights clean Python programming, file handling, and modular design – perfect for showcasing core scripting skills alongside my cybersecurity expertise.
+GestionnaireBudget allows you to easily track your income, expenses, and overall financial balance directly from the terminal. Data is saved in simple JSON files for persistence. This project highlights clean Java programming, file handling, and modular design – perfect for showcasing core scripting skills alongside my cybersecurity expertise.
 
 Ideal for anyone who wants a fast, dependency-free way to manage personal finances!
 
@@ -18,10 +18,10 @@ Ideal for anyone who wants a fast, dependency-free way to manage personal financ
 - Edit or delete existing transactions
 - Data automatically saved to JSON files (no external database required)
 - Simple, interactive command-line menu
-- Pure Python – runs anywhere with Python installed
+- Pure Java – runs anywhere with Java installed
 
 ## 🛠️ Technologies Used
-- **Language**: Python (standard library only)
+- **Language**: Java (standard library only)
 - **Key Modules**:
   - `json` – for saving/loading data
   - `datetime` – for date handling
